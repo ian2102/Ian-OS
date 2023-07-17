@@ -1,0 +1,11 @@
+NAME="Ian OS"
+PRETTY_NAME="Ian OS"
+ID=ian
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://iansolutions.xyz/"
+DOCUMENTATION_URL="https://iansolutions.xyz/"
+SUPPORT_URL="https://iansolutions.xyz/"
+BUG_REPORT_URL="https://iansolutions.xyz/"
+PRIVACY_POLICY_URL="https://iansolutions.xyz/"
+LOGO=ianlinux-logo
